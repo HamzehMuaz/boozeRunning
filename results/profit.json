@@ -1,0 +1,38 @@
+[
+  {
+    "value": 1150,
+    "from": "mich",
+    "to": "cali",
+    "booze": "Vodka"
+  },
+  {
+    "value": 1132,
+    "from": "nev",
+    "to": "nj",
+    "booze": "Gin"
+  },
+  {
+    "value": 1131,
+    "from": "ili",
+    "to": "nev",
+    "booze": "Whisky"
+  },
+  {
+    "value": 1057,
+    "from": "nj",
+    "to": "mich",
+    "booze": "Rum"
+  },
+  {
+    "value": 1046,
+    "from": "cali",
+    "to": "mich",
+    "booze": "Rum"
+  },
+  {
+    "value": 1045,
+    "from": "mich",
+    "to": "nev",
+    "booze": "Whisky"
+  }
+]
