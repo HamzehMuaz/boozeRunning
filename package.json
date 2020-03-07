@@ -1,0 +1,24 @@
+{
+  "name": "boozerunning",
+  "version": "1.0.0",
+  "description": "Optimal path finding algorthim for buying/selling items for most profit - used for bootleggers game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HamzehMuaz/boozeRunning.git"
+  },
+  "author": "Hamzeh Muaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HamzehMuaz/boozeRunning/issues"
+  },
+  "homepage": "https://github.com/HamzehMuaz/boozeRunning#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.20.1"
+  }
+}
