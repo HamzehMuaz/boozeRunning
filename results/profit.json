@@ -13,7 +13,7 @@
   },
   {
     "value": 1131,
-    "from": "ili",
+    "from": "illi",
     "to": "nev",
     "booze": "Whisky"
   },
@@ -62,13 +62,13 @@
   {
     "value": 877,
     "from": "ny",
-    "to": "ili",
+    "to": "illi",
     "booze": "Cognac"
   },
   {
     "value": 859,
     "from": "cali",
-    "to": "ili",
+    "to": "illi",
     "booze": "Wine"
   },
   {
@@ -98,7 +98,7 @@
   {
     "value": 813,
     "from": "nj",
-    "to": "ili",
+    "to": "illi",
     "booze": "Rum"
   },
   {
@@ -110,13 +110,13 @@
   {
     "value": 802,
     "from": "cali",
-    "to": "ili",
+    "to": "illi",
     "booze": "Rum"
   },
   {
     "value": 774,
     "from": "nj",
-    "to": "ili",
+    "to": "illi",
     "booze": "Cognac"
   },
   {
@@ -134,7 +134,7 @@
   {
     "value": 749,
     "from": "mich",
-    "to": "ili",
+    "to": "illi",
     "booze": "Wine"
   },
   {
@@ -145,7 +145,7 @@
   },
   {
     "value": 731,
-    "from": "ili",
+    "from": "illi",
     "to": "ny",
     "booze": "Whisky"
   },
@@ -157,19 +157,19 @@
   },
   {
     "value": 700,
-    "from": "ili",
+    "from": "illi",
     "to": "nj",
     "booze": "Gin"
   },
   {
     "value": 699,
     "from": "nev",
-    "to": "ili",
+    "to": "illi",
     "booze": "Wine"
   },
   {
     "value": 697,
-    "from": "ili",
+    "from": "illi",
     "to": "cali",
     "booze": "Vodka"
   },
@@ -182,7 +182,7 @@
   {
     "value": 655,
     "from": "nev",
-    "to": "ili",
+    "to": "illi",
     "booze": "Cognac"
   },
   {
@@ -200,13 +200,13 @@
   {
     "value": 590,
     "from": "nj",
-    "to": "ili",
+    "to": "illi",
     "booze": "Wine"
   },
   {
     "value": 580,
     "from": "mich",
-    "to": "ili",
+    "to": "illi",
     "booze": "Cognac"
   },
   {
@@ -253,20 +253,20 @@
   },
   {
     "value": 460,
-    "from": "ili",
+    "from": "illi",
     "to": "nj",
     "booze": "Whisky"
   },
   {
     "value": 457,
-    "from": "ili",
+    "from": "illi",
     "to": "cali",
     "booze": "Beer"
   },
   {
     "value": 453,
     "from": "mich",
-    "to": "ili",
+    "to": "illi",
     "booze": "Vodka"
   },
   {
@@ -277,7 +277,7 @@
   },
   {
     "value": 447,
-    "from": "ili",
+    "from": "illi",
     "to": "nj",
     "booze": "Beer"
   },
@@ -296,7 +296,7 @@
   {
     "value": 432,
     "from": "nev",
-    "to": "ili",
+    "to": "illi",
     "booze": "Gin"
   },
   {
@@ -313,7 +313,7 @@
   },
   {
     "value": 412,
-    "from": "ili",
+    "from": "illi",
     "to": "nj",
     "booze": "Tequila"
   }
