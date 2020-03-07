@@ -34,5 +34,287 @@
     "from": "mich",
     "to": "nev",
     "booze": "Whisky"
+  },
+  {
+    "value": 980,
+    "from": "ny",
+    "to": "cali",
+    "booze": "Vodka"
+  },
+  {
+    "value": 921,
+    "from": "cali",
+    "to": "ny",
+    "booze": "Wine"
+  },
+  {
+    "value": 907,
+    "from": "nj",
+    "to": "ny",
+    "booze": "Rum"
+  },
+  {
+    "value": 896,
+    "from": "cali",
+    "to": "ny",
+    "booze": "Rum"
+  },
+  {
+    "value": 877,
+    "from": "ny",
+    "to": "ili",
+    "booze": "Cognac"
+  },
+  {
+    "value": 859,
+    "from": "cali",
+    "to": "ili",
+    "booze": "Wine"
+  },
+  {
+    "value": 847,
+    "from": "nev",
+    "to": "cali",
+    "booze": "Vodka"
+  },
+  {
+    "value": 841,
+    "from": "nj",
+    "to": "cali",
+    "booze": "Vodka"
+  },
+  {
+    "value": 835,
+    "from": "cali",
+    "to": "nj",
+    "booze": "Gin"
+  },
+  {
+    "value": 815,
+    "from": "nev",
+    "to": "mich",
+    "booze": "Gin"
+  },
+  {
+    "value": 813,
+    "from": "nj",
+    "to": "ili",
+    "booze": "Rum"
+  },
+  {
+    "value": 811,
+    "from": "mich",
+    "to": "ny",
+    "booze": "Wine"
+  },
+  {
+    "value": 802,
+    "from": "cali",
+    "to": "ili",
+    "booze": "Rum"
+  },
+  {
+    "value": 774,
+    "from": "nj",
+    "to": "ili",
+    "booze": "Cognac"
+  },
+  {
+    "value": 761,
+    "from": "nev",
+    "to": "ny",
+    "booze": "Wine"
+  },
+  {
+    "value": 760,
+    "from": "ny",
+    "to": "nj",
+    "booze": "Gin"
+  },
+  {
+    "value": 749,
+    "from": "mich",
+    "to": "ili",
+    "booze": "Wine"
+  },
+  {
+    "value": 733,
+    "from": "cali",
+    "to": "nj",
+    "booze": "Tequila"
+  },
+  {
+    "value": 731,
+    "from": "ili",
+    "to": "ny",
+    "booze": "Whisky"
+  },
+  {
+    "value": 731,
+    "from": "cali",
+    "to": "nev",
+    "booze": "Whisky"
+  },
+  {
+    "value": 700,
+    "from": "ili",
+    "to": "nj",
+    "booze": "Gin"
+  },
+  {
+    "value": 699,
+    "from": "nev",
+    "to": "ili",
+    "booze": "Wine"
+  },
+  {
+    "value": 697,
+    "from": "ili",
+    "to": "cali",
+    "booze": "Vodka"
+  },
+  {
+    "value": 671,
+    "from": "nj",
+    "to": "nev",
+    "booze": "Whisky"
+  },
+  {
+    "value": 655,
+    "from": "nev",
+    "to": "ili",
+    "booze": "Cognac"
+  },
+  {
+    "value": 652,
+    "from": "nj",
+    "to": "ny",
+    "booze": "Wine"
+  },
+  {
+    "value": 645,
+    "from": "mich",
+    "to": "ny",
+    "booze": "Whisky"
+  },
+  {
+    "value": 590,
+    "from": "nj",
+    "to": "ili",
+    "booze": "Wine"
+  },
+  {
+    "value": 580,
+    "from": "mich",
+    "to": "ili",
+    "booze": "Cognac"
+  },
+  {
+    "value": 574,
+    "from": "cali",
+    "to": "nev",
+    "booze": "Tequila"
+  },
+  {
+    "value": 554,
+    "from": "nj",
+    "to": "nev",
+    "booze": "Rum"
+  },
+  {
+    "value": 547,
+    "from": "mich",
+    "to": "nj",
+    "booze": "Tequila"
+  },
+  {
+    "value": 543,
+    "from": "cali",
+    "to": "nev",
+    "booze": "Rum"
+  },
+  {
+    "value": 523,
+    "from": "ny",
+    "to": "cali",
+    "booze": "Cognac"
+  },
+  {
+    "value": 518,
+    "from": "cali",
+    "to": "mich",
+    "booze": "Gin"
+  },
+  {
+    "value": 503,
+    "from": "nev",
+    "to": "mich",
+    "booze": "Rum"
+  },
+  {
+    "value": 460,
+    "from": "ili",
+    "to": "nj",
+    "booze": "Whisky"
+  },
+  {
+    "value": 457,
+    "from": "ili",
+    "to": "cali",
+    "booze": "Beer"
+  },
+  {
+    "value": 453,
+    "from": "mich",
+    "to": "ili",
+    "booze": "Vodka"
+  },
+  {
+    "value": 448,
+    "from": "mich",
+    "to": "cali",
+    "booze": "Beer"
+  },
+  {
+    "value": 447,
+    "from": "ili",
+    "to": "nj",
+    "booze": "Beer"
+  },
+  {
+    "value": 443,
+    "from": "ny",
+    "to": "mich",
+    "booze": "Gin"
+  },
+  {
+    "value": 438,
+    "from": "mich",
+    "to": "nj",
+    "booze": "Beer"
+  },
+  {
+    "value": 432,
+    "from": "nev",
+    "to": "ili",
+    "booze": "Gin"
+  },
+  {
+    "value": 424,
+    "from": "cali",
+    "to": "ny",
+    "booze": "Tequila"
+  },
+  {
+    "value": 420,
+    "from": "nj",
+    "to": "cali",
+    "booze": "Cognac"
+  },
+  {
+    "value": 412,
+    "from": "ili",
+    "to": "nj",
+    "booze": "Tequila"
   }
 ]

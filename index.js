@@ -1,3 +1,5 @@
 const bruteForce = require('./algorthims/bruteForce');
 
-bruteForce.findMostProfit2();
+// bruteForce.findMostProfit();
+
+bruteForce.findMostProfitRoutes();
