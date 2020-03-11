@@ -21,13 +21,43 @@
     "carryingCapacity": 450,
     "profitPerTravel": 485100,
     "revenuePerTravel": 724500,
-    "lossPerTravel": 114900,
-    "totalSpentOnGold": 1800000,
+    "lossPerTravel": 194900,
+    "totalSpentOnGold": 2040000,
     "totalProfit": 1455300,
     "totalRevenue": 2173500,
-    "cashLost": 344700,
-    "goldLost": 5.745,
-    "revenuePerOneGold": 378328.9817232376
+    "cashLost": 584700,
+    "goldLost": 8.598529411764705,
+    "revenuePerOneGold": 252775.78245253977
+  },
+  {
+    "0": {
+      "value": 348300,
+      "from": "nj",
+      "to": "illi",
+      "booze": "Cognac"
+    },
+    "1": {
+      "value": 508950,
+      "from": "illi",
+      "to": "nev",
+      "booze": "Whisky"
+    },
+    "2": {
+      "value": 509400,
+      "from": "nev",
+      "to": "nj",
+      "booze": "Gin"
+    },
+    "carryingCapacity": 450,
+    "profitPerTravel": 455550,
+    "revenuePerTravel": 825750,
+    "lossPerTravel": 224450,
+    "totalSpentOnGold": 2040000,
+    "totalProfit": 1366650,
+    "totalRevenue": 2477250,
+    "cashLost": 673350,
+    "goldLost": 9.902205882352941,
+    "revenuePerOneGold": 250171.53040766317
   },
   {
     "0": {
@@ -63,91 +93,13 @@
     "carryingCapacity": 450,
     "profitPerTravel": 479610,
     "revenuePerTravel": 731970,
-    "lossPerTravel": 120390,
-    "totalSpentOnGold": 3000000,
+    "lossPerTravel": 200390,
+    "totalSpentOnGold": 3400000,
     "totalProfit": 2398050,
     "totalRevenue": 3659850,
-    "cashLost": 601950,
-    "goldLost": 10.0325,
-    "revenuePerOneGold": 364799.401943683
-  },
-  {
-    "0": {
-      "value": 517500,
-      "from": "mich",
-      "to": "cali",
-      "booze": "Vodka"
-    },
-    "1": {
-      "value": 470700,
-      "from": "cali",
-      "to": "mich",
-      "booze": "Rum"
-    },
-    "carryingCapacity": 450,
-    "profitPerTravel": 494100,
-    "revenuePerTravel": 613800,
-    "lossPerTravel": 105900,
-    "totalSpentOnGold": 1200000,
-    "totalProfit": 988200,
-    "totalRevenue": 1227600,
-    "cashLost": 211800,
-    "goldLost": 3.53,
-    "revenuePerOneGold": 347762.0396600567
-  },
-  {
-    "0": {
-      "value": 470700,
-      "from": "cali",
-      "to": "mich",
-      "booze": "Rum"
-    },
-    "1": {
-      "value": 517500,
-      "from": "mich",
-      "to": "cali",
-      "booze": "Vodka"
-    },
-    "carryingCapacity": 450,
-    "profitPerTravel": 494100,
-    "revenuePerTravel": 613800,
-    "lossPerTravel": 105900,
-    "totalSpentOnGold": 1200000,
-    "totalProfit": 988200,
-    "totalRevenue": 1227600,
-    "cashLost": 211800,
-    "goldLost": 3.53,
-    "revenuePerOneGold": 347762.0396600567
-  },
-  {
-    "0": {
-      "value": 348300,
-      "from": "nj",
-      "to": "illi",
-      "booze": "Cognac"
-    },
-    "1": {
-      "value": 508950,
-      "from": "illi",
-      "to": "nev",
-      "booze": "Whisky"
-    },
-    "2": {
-      "value": 509400,
-      "from": "nev",
-      "to": "nj",
-      "booze": "Gin"
-    },
-    "carryingCapacity": 450,
-    "profitPerTravel": 455550,
-    "revenuePerTravel": 825750,
-    "lossPerTravel": 144450,
-    "totalSpentOnGold": 1800000,
-    "totalProfit": 1366650,
-    "totalRevenue": 2477250,
-    "cashLost": 433350,
-    "goldLost": 7.2225,
-    "revenuePerOneGold": 342990.6542056075
+    "cashLost": 1001950,
+    "goldLost": 14.734558823529412,
+    "revenuePerOneGold": 248385.44837566745
   },
   {
     "0": {
@@ -177,13 +129,91 @@
     "carryingCapacity": 450,
     "profitPerTravel": 457762.5,
     "revenuePerTravel": 750150,
-    "lossPerTravel": 142237.5,
-    "totalSpentOnGold": 2400000,
+    "lossPerTravel": 222237.5,
+    "totalSpentOnGold": 2720000,
     "totalProfit": 1831050,
     "totalRevenue": 3000600,
-    "cashLost": 568950,
-    "goldLost": 9.4825,
-    "revenuePerOneGold": 316435.5391510678
+    "cashLost": 888950,
+    "goldLost": 13.072794117647058,
+    "revenuePerOneGold": 229530.11980426346
+  },
+  {
+    "0": {
+      "value": 517500,
+      "from": "mich",
+      "to": "cali",
+      "booze": "Vodka"
+    },
+    "1": {
+      "value": 470700,
+      "from": "cali",
+      "to": "mich",
+      "booze": "Rum"
+    },
+    "carryingCapacity": 450,
+    "profitPerTravel": 494100,
+    "revenuePerTravel": 613800,
+    "lossPerTravel": 185900,
+    "totalSpentOnGold": 1360000,
+    "totalProfit": 988200,
+    "totalRevenue": 1227600,
+    "cashLost": 371800,
+    "goldLost": 5.4676470588235295,
+    "revenuePerOneGold": 224520.7100591716
+  },
+  {
+    "0": {
+      "value": 470700,
+      "from": "cali",
+      "to": "mich",
+      "booze": "Rum"
+    },
+    "1": {
+      "value": 517500,
+      "from": "mich",
+      "to": "cali",
+      "booze": "Vodka"
+    },
+    "carryingCapacity": 450,
+    "profitPerTravel": 494100,
+    "revenuePerTravel": 613800,
+    "lossPerTravel": 185900,
+    "totalSpentOnGold": 1360000,
+    "totalProfit": 988200,
+    "totalRevenue": 1227600,
+    "cashLost": 371800,
+    "goldLost": 5.4676470588235295,
+    "revenuePerOneGold": 224520.7100591716
+  },
+  {
+    "0": {
+      "value": 265500,
+      "from": "nj",
+      "to": "illi",
+      "booze": "Wine"
+    },
+    "1": {
+      "value": 508950,
+      "from": "illi",
+      "to": "nev",
+      "booze": "Whisky"
+    },
+    "2": {
+      "value": 509400,
+      "from": "nev",
+      "to": "nj",
+      "booze": "Gin"
+    },
+    "carryingCapacity": 450,
+    "profitPerTravel": 427950,
+    "revenuePerTravel": 810750,
+    "lossPerTravel": 252050,
+    "totalSpentOnGold": 2040000,
+    "totalProfit": 1283850,
+    "totalRevenue": 2432250,
+    "cashLost": 756150,
+    "goldLost": 11.11985294117647,
+    "revenuePerOneGold": 218730.41063281096
   },
   {
     "0": {
@@ -219,13 +249,37 @@
     "carryingCapacity": 450,
     "profitPerTravel": 474480,
     "revenuePerTravel": 658260,
-    "lossPerTravel": 125520,
-    "totalSpentOnGold": 3000000,
+    "lossPerTravel": 205520,
+    "totalSpentOnGold": 3400000,
     "totalProfit": 2372400,
     "totalRevenue": 3291300,
-    "cashLost": 627600,
-    "goldLost": 10.46,
-    "revenuePerOneGold": 314655.83173996175
+    "cashLost": 1027600,
+    "goldLost": 15.111764705882353,
+    "revenuePerOneGold": 217797.19735305567
+  },
+  {
+    "0": {
+      "value": 314550,
+      "from": "nev",
+      "to": "illi",
+      "booze": "Wine"
+    },
+    "1": {
+      "value": 508950,
+      "from": "illi",
+      "to": "nev",
+      "booze": "Whisky"
+    },
+    "carryingCapacity": 450,
+    "profitPerTravel": 411750,
+    "revenuePerTravel": 856125,
+    "lossPerTravel": 268250,
+    "totalSpentOnGold": 1360000,
+    "totalProfit": 823500,
+    "totalRevenue": 1712250,
+    "cashLost": 536500,
+    "goldLost": 7.889705882352941,
+    "revenuePerOneGold": 217023.29916123018
   },
   {
     "0": {
@@ -255,20 +309,20 @@
     "carryingCapacity": 450,
     "profitPerTravel": 457875,
     "revenuePerTravel": 708187.5,
-    "lossPerTravel": 142125,
-    "totalSpentOnGold": 2400000,
+    "lossPerTravel": 222125,
+    "totalSpentOnGold": 2720000,
     "totalProfit": 1831500,
     "totalRevenue": 2832750,
-    "cashLost": 568500,
-    "goldLost": 9.475,
-    "revenuePerOneGold": 298970.97625329817
+    "cashLost": 888500,
+    "goldLost": 13.066176470588236,
+    "revenuePerOneGold": 216800.2250984806
   },
   {
     "0": {
-      "value": 365850,
-      "from": "nj",
+      "value": 294750,
+      "from": "nev",
       "to": "illi",
-      "booze": "Rum"
+      "booze": "Cognac"
     },
     "1": {
       "value": 508950,
@@ -276,22 +330,16 @@
       "to": "nev",
       "booze": "Whisky"
     },
-    "2": {
-      "value": 509400,
-      "from": "nev",
-      "to": "nj",
-      "booze": "Gin"
-    },
     "carryingCapacity": 450,
-    "profitPerTravel": 461400,
-    "revenuePerTravel": 687900,
-    "lossPerTravel": 138600,
-    "totalSpentOnGold": 1800000,
-    "totalProfit": 1384200,
-    "totalRevenue": 2063700,
-    "cashLost": 415800,
-    "goldLost": 6.93,
-    "revenuePerOneGold": 297792.20779220783
+    "profitPerTravel": 401850,
+    "revenuePerTravel": 878625,
+    "lossPerTravel": 278150,
+    "totalSpentOnGold": 1360000,
+    "totalProfit": 803700,
+    "totalRevenue": 1757250,
+    "cashLost": 556300,
+    "goldLost": 8.180882352941177,
+    "revenuePerOneGold": 214799.56857810533
   },
   {
     "0": {
@@ -321,20 +369,20 @@
     "carryingCapacity": 450,
     "profitPerTravel": 438750,
     "revenuePerTravel": 761400,
-    "lossPerTravel": 161250,
-    "totalSpentOnGold": 2400000,
+    "lossPerTravel": 241250,
+    "totalSpentOnGold": 2720000,
     "totalProfit": 1755000,
     "totalRevenue": 3045600,
-    "cashLost": 645000,
-    "goldLost": 10.75,
-    "revenuePerOneGold": 283311.62790697673
+    "cashLost": 965000,
+    "goldLost": 14.191176470588236,
+    "revenuePerOneGold": 214612.2279792746
   },
   {
     "0": {
-      "value": 265500,
+      "value": 365850,
       "from": "nj",
       "to": "illi",
-      "booze": "Wine"
+      "booze": "Rum"
     },
     "1": {
       "value": 508950,
@@ -349,39 +397,63 @@
       "booze": "Gin"
     },
     "carryingCapacity": 450,
-    "profitPerTravel": 427950,
-    "revenuePerTravel": 810750,
-    "lossPerTravel": 172050,
-    "totalSpentOnGold": 1800000,
-    "totalProfit": 1283850,
-    "totalRevenue": 2432250,
-    "cashLost": 516150,
-    "goldLost": 8.6025,
-    "revenuePerOneGold": 282737.5762859634
+    "profitPerTravel": 461400,
+    "revenuePerTravel": 687900,
+    "lossPerTravel": 218600,
+    "totalSpentOnGold": 2040000,
+    "totalProfit": 1384200,
+    "totalRevenue": 2063700,
+    "cashLost": 655800,
+    "goldLost": 9.644117647058824,
+    "revenuePerOneGold": 213985.36139066788
   },
   {
     "0": {
-      "value": 314550,
-      "from": "nev",
-      "to": "illi",
+      "value": 414450,
+      "from": "cali",
+      "to": "ny",
       "booze": "Wine"
     },
     "1": {
-      "value": 508950,
-      "from": "illi",
+      "value": 441000,
+      "from": "ny",
+      "to": "cali",
+      "booze": "Vodka"
+    },
+    "carryingCapacity": 450,
+    "profitPerTravel": 427725,
+    "revenuePerTravel": 757125,
+    "lossPerTravel": 252275,
+    "totalSpentOnGold": 1360000,
+    "totalProfit": 855450,
+    "totalRevenue": 1514250,
+    "cashLost": 504550,
+    "goldLost": 7.419852941176471,
+    "revenuePerOneGold": 204080.86413635913
+  },
+  {
+    "0": {
+      "value": 301950,
+      "from": "nj",
       "to": "nev",
       "booze": "Whisky"
     },
+    "1": {
+      "value": 509400,
+      "from": "nev",
+      "to": "nj",
+      "booze": "Gin"
+    },
     "carryingCapacity": 450,
-    "profitPerTravel": 411750,
-    "revenuePerTravel": 856125,
-    "lossPerTravel": 188250,
-    "totalSpentOnGold": 1200000,
-    "totalProfit": 823500,
-    "totalRevenue": 1712250,
-    "cashLost": 376500,
-    "goldLost": 6.275,
-    "revenuePerOneGold": 272868.5258964143
+    "profitPerTravel": 405675,
+    "revenuePerTravel": 802575,
+    "lossPerTravel": 274325,
+    "totalSpentOnGold": 1360000,
+    "totalProfit": 811350,
+    "totalRevenue": 1605150,
+    "cashLost": 548650,
+    "goldLost": 8.068382352941176,
+    "revenuePerOneGold": 198943.2242777727
   },
   {
     "0": {
@@ -405,85 +477,13 @@
     "carryingCapacity": 450,
     "profitPerTravel": 456300,
     "revenuePerTravel": 649200,
-    "lossPerTravel": 143700,
-    "totalSpentOnGold": 1800000,
+    "lossPerTravel": 223700,
+    "totalSpentOnGold": 2040000,
     "totalProfit": 1368900,
     "totalRevenue": 1947600,
-    "cashLost": 431100,
-    "goldLost": 7.185,
-    "revenuePerOneGold": 271064.71816283924
-  },
-  {
-    "0": {
-      "value": 294750,
-      "from": "nev",
-      "to": "illi",
-      "booze": "Cognac"
-    },
-    "1": {
-      "value": 508950,
-      "from": "illi",
-      "to": "nev",
-      "booze": "Whisky"
-    },
-    "carryingCapacity": 450,
-    "profitPerTravel": 401850,
-    "revenuePerTravel": 878625,
-    "lossPerTravel": 198150,
-    "totalSpentOnGold": 1200000,
-    "totalProfit": 803700,
-    "totalRevenue": 1757250,
-    "cashLost": 396300,
-    "goldLost": 6.605,
-    "revenuePerOneGold": 266048.44814534445
-  },
-  {
-    "0": {
-      "value": 414450,
-      "from": "cali",
-      "to": "ny",
-      "booze": "Wine"
-    },
-    "1": {
-      "value": 441000,
-      "from": "ny",
-      "to": "cali",
-      "booze": "Vodka"
-    },
-    "carryingCapacity": 450,
-    "profitPerTravel": 427725,
-    "revenuePerTravel": 757125,
-    "lossPerTravel": 172275,
-    "totalSpentOnGold": 1200000,
-    "totalProfit": 855450,
-    "totalRevenue": 1514250,
-    "cashLost": 344550,
-    "goldLost": 5.7425,
-    "revenuePerOneGold": 263691.77187636046
-  },
-  {
-    "0": {
-      "value": 301950,
-      "from": "nj",
-      "to": "nev",
-      "booze": "Whisky"
-    },
-    "1": {
-      "value": 509400,
-      "from": "nev",
-      "to": "nj",
-      "booze": "Gin"
-    },
-    "carryingCapacity": 450,
-    "profitPerTravel": 405675,
-    "revenuePerTravel": 802575,
-    "lossPerTravel": 194325,
-    "totalSpentOnGold": 1200000,
-    "totalProfit": 811350,
-    "totalRevenue": 1605150,
-    "cashLost": 388650,
-    "goldLost": 6.4775,
-    "revenuePerOneGold": 247803.93670397528
+    "cashLost": 671100,
+    "goldLost": 9.869117647058824,
+    "revenuePerOneGold": 197342.86991506483
   },
   {
     "0": {
@@ -507,49 +507,13 @@
     "carryingCapacity": 450,
     "profitPerTravel": 425550,
     "revenuePerTravel": 694200,
-    "lossPerTravel": 174450,
-    "totalSpentOnGold": 1800000,
+    "lossPerTravel": 254450,
+    "totalSpentOnGold": 2040000,
     "totalProfit": 1276650,
     "totalRevenue": 2082600,
-    "cashLost": 523350,
-    "goldLost": 8.7225,
-    "revenuePerOneGold": 238761.82287188305
-  },
-  {
-    "0": {
-      "value": 258300,
-      "from": "cali",
-      "to": "nev",
-      "booze": "Tequila"
-    },
-    "1": {
-      "value": 509400,
-      "from": "nev",
-      "to": "nj",
-      "booze": "Gin"
-    },
-    "2": {
-      "value": 475650,
-      "from": "nj",
-      "to": "mich",
-      "booze": "Rum"
-    },
-    "3": {
-      "value": 517500,
-      "from": "mich",
-      "to": "cali",
-      "booze": "Vodka"
-    },
-    "carryingCapacity": 450,
-    "profitPerTravel": 440212.5,
-    "revenuePerTravel": 573300,
-    "lossPerTravel": 159787.5,
-    "totalSpentOnGold": 2400000,
-    "totalProfit": 1760850,
-    "totalRevenue": 2293200,
-    "cashLost": 639150,
-    "goldLost": 10.6525,
-    "revenuePerOneGold": 215273.40999765313
+    "cashLost": 763350,
+    "goldLost": 11.225735294117648,
+    "revenuePerOneGold": 185520.14148162704
   },
   {
     "0": {
@@ -579,13 +543,49 @@
     "carryingCapacity": 450,
     "profitPerTravel": 424462.5,
     "revenuePerTravel": 629775,
-    "lossPerTravel": 175537.5,
-    "totalSpentOnGold": 2400000,
+    "lossPerTravel": 255537.5,
+    "totalSpentOnGold": 2720000,
     "totalProfit": 1697850,
     "totalRevenue": 2519100,
-    "cashLost": 702150,
-    "goldLost": 11.7025,
-    "revenuePerOneGold": 215261.69621875667
+    "cashLost": 1022150,
+    "goldLost": 15.031617647058823,
+    "revenuePerOneGold": 167586.75341192583
+  },
+  {
+    "0": {
+      "value": 258300,
+      "from": "cali",
+      "to": "nev",
+      "booze": "Tequila"
+    },
+    "1": {
+      "value": 509400,
+      "from": "nev",
+      "to": "nj",
+      "booze": "Gin"
+    },
+    "2": {
+      "value": 475650,
+      "from": "nj",
+      "to": "mich",
+      "booze": "Rum"
+    },
+    "3": {
+      "value": 517500,
+      "from": "mich",
+      "to": "cali",
+      "booze": "Vodka"
+    },
+    "carryingCapacity": 450,
+    "profitPerTravel": 440212.5,
+    "revenuePerTravel": 573300,
+    "lossPerTravel": 239787.5,
+    "totalSpentOnGold": 2720000,
+    "totalProfit": 1760850,
+    "totalRevenue": 2293200,
+    "cashLost": 959150,
+    "goldLost": 14.10514705882353,
+    "revenuePerOneGold": 162578.9501120784
   },
   {
     "0": {
@@ -615,67 +615,13 @@
     "carryingCapacity": 450,
     "profitPerTravel": 436725,
     "revenuePerTravel": 572400,
-    "lossPerTravel": 163275,
-    "totalSpentOnGold": 2400000,
+    "lossPerTravel": 243275,
+    "totalSpentOnGold": 2720000,
     "totalProfit": 1746900,
     "totalRevenue": 2289600,
-    "cashLost": 653100,
-    "goldLost": 10.885,
-    "revenuePerOneGold": 210344.51079467157
-  },
-  {
-    "0": {
-      "value": 329850,
-      "from": "cali",
-      "to": "nj",
-      "booze": "Tequila"
-    },
-    "1": {
-      "value": 475650,
-      "from": "nj",
-      "to": "mich",
-      "booze": "Rum"
-    },
-    "2": {
-      "value": 517500,
-      "from": "mich",
-      "to": "cali",
-      "booze": "Vodka"
-    },
-    "carryingCapacity": 450,
-    "profitPerTravel": 441000,
-    "revenuePerTravel": 548250,
-    "lossPerTravel": 159000,
-    "totalSpentOnGold": 1800000,
-    "totalProfit": 1323000,
-    "totalRevenue": 1644750,
-    "cashLost": 477000,
-    "goldLost": 7.95,
-    "revenuePerOneGold": 206886.79245283018
-  },
-  {
-    "0": {
-      "value": 403200,
-      "from": "cali",
-      "to": "ny",
-      "booze": "Rum"
-    },
-    "1": {
-      "value": 441000,
-      "from": "ny",
-      "to": "cali",
-      "booze": "Vodka"
-    },
-    "carryingCapacity": 450,
-    "profitPerTravel": 422100,
-    "revenuePerTravel": 580050,
-    "lossPerTravel": 177900,
-    "totalSpentOnGold": 1200000,
-    "totalProfit": 844200,
-    "totalRevenue": 1160100,
-    "cashLost": 355800,
-    "goldLost": 5.93,
-    "revenuePerOneGold": 195632.37774030355
+    "cashLost": 973100,
+    "goldLost": 14.310294117647059,
+    "revenuePerOneGold": 159996.71154043777
   },
   {
     "0": {
@@ -699,13 +645,67 @@
     "carryingCapacity": 450,
     "profitPerTravel": 400650,
     "revenuePerTravel": 644250,
-    "lossPerTravel": 199350,
-    "totalSpentOnGold": 1800000,
+    "lossPerTravel": 279350,
+    "totalSpentOnGold": 2040000,
     "totalProfit": 1201950,
     "totalRevenue": 1932750,
-    "cashLost": 598050,
-    "goldLost": 9.9675,
-    "revenuePerOneGold": 193905.19187358918
+    "cashLost": 838050,
+    "goldLost": 12.324264705882353,
+    "revenuePerOneGold": 156824.7717916592
+  },
+  {
+    "0": {
+      "value": 329850,
+      "from": "cali",
+      "to": "nj",
+      "booze": "Tequila"
+    },
+    "1": {
+      "value": 475650,
+      "from": "nj",
+      "to": "mich",
+      "booze": "Rum"
+    },
+    "2": {
+      "value": 517500,
+      "from": "mich",
+      "to": "cali",
+      "booze": "Vodka"
+    },
+    "carryingCapacity": 450,
+    "profitPerTravel": 441000,
+    "revenuePerTravel": 548250,
+    "lossPerTravel": 239000,
+    "totalSpentOnGold": 2040000,
+    "totalProfit": 1323000,
+    "totalRevenue": 1644750,
+    "cashLost": 717000,
+    "goldLost": 10.544117647058824,
+    "revenuePerOneGold": 155987.44769874477
+  },
+  {
+    "0": {
+      "value": 403200,
+      "from": "cali",
+      "to": "ny",
+      "booze": "Rum"
+    },
+    "1": {
+      "value": 441000,
+      "from": "ny",
+      "to": "cali",
+      "booze": "Vodka"
+    },
+    "carryingCapacity": 450,
+    "profitPerTravel": 422100,
+    "revenuePerTravel": 580050,
+    "lossPerTravel": 257900,
+    "totalSpentOnGold": 1360000,
+    "totalProfit": 844200,
+    "totalRevenue": 1160100,
+    "cashLost": 515800,
+    "goldLost": 7.5852941176470585,
+    "revenuePerOneGold": 152940.67468010858
   },
   {
     "0": {
@@ -723,13 +723,13 @@
     "carryingCapacity": 450,
     "profitPerTravel": 375300,
     "revenuePerTravel": 618300,
-    "lossPerTravel": 224700,
-    "totalSpentOnGold": 1200000,
+    "lossPerTravel": 304700,
+    "totalSpentOnGold": 1360000,
     "totalProfit": 750600,
     "totalRevenue": 1236600,
-    "cashLost": 449400,
-    "goldLost": 7.49,
-    "revenuePerOneGold": 165100.13351134845
+    "cashLost": 609400,
+    "goldLost": 8.961764705882352,
+    "revenuePerOneGold": 137986.21595011489
   },
   {
     "0": {
@@ -747,13 +747,13 @@
     "carryingCapacity": 450,
     "profitPerTravel": 351675,
     "revenuePerTravel": 645075,
-    "lossPerTravel": 248325,
-    "totalSpentOnGold": 1200000,
+    "lossPerTravel": 328325,
+    "totalSpentOnGold": 1360000,
     "totalProfit": 703350,
     "totalRevenue": 1290150,
-    "cashLost": 496650,
-    "goldLost": 8.2775,
-    "revenuePerOneGold": 155862.2772576261
+    "cashLost": 656650,
+    "goldLost": 9.656617647058823,
+    "revenuePerOneGold": 133602.68027107287
   },
   {
     "0": {
@@ -771,13 +771,13 @@
     "carryingCapacity": 450,
     "profitPerTravel": 379350,
     "revenuePerTravel": 531000,
-    "lossPerTravel": 220650,
-    "totalSpentOnGold": 1200000,
+    "lossPerTravel": 300650,
+    "totalSpentOnGold": 1360000,
     "totalProfit": 758700,
     "totalRevenue": 1062000,
-    "cashLost": 441300,
-    "goldLost": 7.355,
-    "revenuePerOneGold": 144391.5703602991
+    "cashLost": 601300,
+    "goldLost": 8.842647058823529,
+    "revenuePerOneGold": 120099.78380176285
   },
   {
     "0": {
@@ -795,13 +795,13 @@
     "carryingCapacity": 450,
     "profitPerTravel": 360900,
     "revenuePerTravel": 492750,
-    "lossPerTravel": 239100,
-    "totalSpentOnGold": 1200000,
+    "lossPerTravel": 319100,
+    "totalSpentOnGold": 1360000,
     "totalProfit": 721800,
     "totalRevenue": 985500,
-    "cashLost": 478200,
-    "goldLost": 7.97,
-    "revenuePerOneGold": 123651.19196988708
+    "cashLost": 638200,
+    "goldLost": 9.385294117647058,
+    "revenuePerOneGold": 105004.7007207772
   },
   {
     "0": {
@@ -819,13 +819,13 @@
     "carryingCapacity": 450,
     "profitPerTravel": 315900,
     "revenuePerTravel": 468675,
-    "lossPerTravel": 284100,
-    "totalSpentOnGold": 1200000,
+    "lossPerTravel": 364100,
+    "totalSpentOnGold": 1360000,
     "totalProfit": 631800,
     "totalRevenue": 937350,
-    "cashLost": 568200,
-    "goldLost": 9.47,
-    "revenuePerOneGold": 98980.99260823653
+    "cashLost": 728200,
+    "goldLost": 10.708823529411765,
+    "revenuePerOneGold": 87530.62345509476
   },
   {
     "0": {
@@ -843,13 +843,13 @@
     "carryingCapacity": 450,
     "profitPerTravel": 336150,
     "revenuePerTravel": 397800,
-    "lossPerTravel": 263850,
-    "totalSpentOnGold": 1200000,
+    "lossPerTravel": 343850,
+    "totalSpentOnGold": 1360000,
     "totalProfit": 672300,
     "totalRevenue": 795600,
-    "cashLost": 527700,
-    "goldLost": 8.795,
-    "revenuePerOneGold": 90460.48891415577
+    "cashLost": 687700,
+    "goldLost": 10.113235294117647,
+    "revenuePerOneGold": 78669.18714555766
   },
   {
     "0": {
@@ -867,12 +867,12 @@
     "carryingCapacity": 450,
     "profitPerTravel": 336375,
     "revenuePerTravel": 395550,
-    "lossPerTravel": 263625,
-    "totalSpentOnGold": 1200000,
+    "lossPerTravel": 343625,
+    "totalSpentOnGold": 1360000,
     "totalProfit": 672750,
     "totalRevenue": 791100,
-    "cashLost": 527250,
-    "goldLost": 8.7875,
-    "revenuePerOneGold": 90025.60455192035
+    "cashLost": 687250,
+    "goldLost": 10.106617647058824,
+    "revenuePerOneGold": 78275.44561658785
   }
 ]
