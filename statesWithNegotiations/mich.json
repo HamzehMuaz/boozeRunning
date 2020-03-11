@@ -1,0 +1,48 @@
+{
+    "name": "mich",
+    "Moonshine": {
+        "low": 68,
+        "med": 92,
+        "high": 118
+    },
+    "Beer": {
+        "low": 47,
+        "med": 58,
+        "high": 74
+    },
+    "Gin": {
+        "low": 991,
+        "med": 1296,
+        "high": 1626
+    },
+    "Whisky": {
+        "low": 757,
+        "med": 950,
+        "high": 1276
+    },
+    "Rum": {
+        "low": 1033,
+        "med": 1288,
+        "high": 1615
+    },
+    "Vodka": {
+        "low": 222,
+        "med": 288,
+        "high": 368
+    },
+    "Tequila": {
+        "low": 313,
+        "med": 400,
+        "high": 524
+    },
+    "Wine": {
+        "low": 812,
+        "med": 1056,
+        "high": 1278
+    },
+    "Cognac": {
+        "low": 1114,
+        "med": 1330,
+        "high": 1682
+    }
+}

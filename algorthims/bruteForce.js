@@ -1,8 +1,12 @@
 const fs = require('fs');
 
+// const {
+//   illi, mich, cali, nev, ny, nj,
+// } = require('../states');
+
 const {
   illi, mich, cali, nev, ny, nj,
-} = require('../states');
+} = require('../statesWithNegotiations');
 
 const findMostProfit = () => {
   const stateArray = [illi, mich, cali, nev, ny, nj];
@@ -13,10 +17,10 @@ const findMostProfit = () => {
       const toStateBoozeObject = stateArray[secondStatesIndex];
       for (let boozeIndex = 0; boozeIndex < Object.keys(fromStateBoozeObject).length; boozeIndex += 1) {
         const fromStateKey = Object.keys(fromStateBoozeObject)[boozeIndex];
-        if (typeof fromStateBoozeObject[fromStateKey] === 'number'
+        if (typeof fromStateBoozeObject[fromStateKey] === 'object'
         && fromStateBoozeObject.name !== toStateBoozeObject.name) {
           const fromStateValue = fromStateBoozeObject[fromStateKey];
-          const profitValue = toStateBoozeObject[fromStateKey] - fromStateValue;
+          const profitValue = toStateBoozeObject[fromStateKey].high - fromStateValue.med;
           if (profitValue > 400) {
             const profitObject = {
               value: profitValue,
@@ -32,7 +36,7 @@ const findMostProfit = () => {
   }
   profitArray = profitArray.sort((a, b) => b.value - a.value);
   fs.writeFile(
-    './results/profit.json',
+    './results/profitWithNegotiations.json',
     JSON.stringify(profitArray, null, 2),
     (err) => {
       if (err) {
@@ -45,7 +49,7 @@ const findMostProfit = () => {
 
 const findMostProfitRoutes = () => {
   // eslint-disable-next-line global-require
-  const profitArray = require('../results/profit.json');
+  const profitArray = require('../results/profitWithNegotiations.json');
   let profitRoutes = [];
   for (let index = 0; index < profitArray.length; index += 1) {
     const profitObject = profitArray[index];
@@ -81,7 +85,7 @@ const findMostProfitRoutes = () => {
   }
   profitRoutes = profitRoutes.sort((a, b) => b.profitPerTravel - a.profitPerTravel);
   fs.writeFile(
-    './results/profitRoutes.json',
+    './results/profitRoutesWithNegotiations.json',
     JSON.stringify(profitRoutes, null, 2),
     (err) => {
       if (err) {

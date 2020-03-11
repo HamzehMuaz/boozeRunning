@@ -1,0 +1,48 @@
+{
+    "name": "nj",
+    "Moonshine": {
+        "low": 76,
+        "med": 106,
+        "high": 143
+    },
+    "Beer": {
+        "low": 408,
+        "med": 505,
+        "high": 618
+    },
+    "Gin": {
+        "low": 1282,
+        "med": 1600,
+        "high": 1999
+    },
+    "Whisky": {
+        "low": 992,
+        "med": 1418,
+        "high": 1681
+    },
+    "Rum": {
+        "low": 179,
+        "med": 215,
+        "high": 257
+    },
+    "Vodka": {
+        "low": 431,
+        "med": 624,
+        "high": 804
+    },
+    "Tequila": {
+        "low": 692,
+        "med": 873,
+        "high": 1153
+    },
+    "Wine": {
+        "low": 918,
+        "med": 1248,
+        "high": 1503
+    },
+    "Cognac": {
+        "low": 1000,
+        "med": 1152,
+        "high": 1566
+    }
+}

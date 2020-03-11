@@ -1,0 +1,965 @@
+[
+  {
+    "0": {
+      "value": 1619,
+      "from": "mich",
+      "to": "nev",
+      "booze": "Whisky"
+    },
+    "1": {
+      "value": 1526,
+      "from": "nev",
+      "to": "nj",
+      "booze": "Gin"
+    },
+    "2": {
+      "value": 1400,
+      "from": "nj",
+      "to": "mich",
+      "booze": "Rum"
+    },
+    "profitPerTravel": 1515
+  },
+  {
+    "0": {
+      "value": 1526,
+      "from": "nev",
+      "to": "nj",
+      "booze": "Gin"
+    },
+    "1": {
+      "value": 1400,
+      "from": "nj",
+      "to": "mich",
+      "booze": "Rum"
+    },
+    "2": {
+      "value": 1619,
+      "from": "mich",
+      "to": "nev",
+      "booze": "Whisky"
+    },
+    "profitPerTravel": 1515
+  },
+  {
+    "0": {
+      "value": 1400,
+      "from": "nj",
+      "to": "mich",
+      "booze": "Rum"
+    },
+    "1": {
+      "value": 1619,
+      "from": "mich",
+      "to": "nev",
+      "booze": "Whisky"
+    },
+    "2": {
+      "value": 1526,
+      "from": "nev",
+      "to": "nj",
+      "booze": "Gin"
+    },
+    "profitPerTravel": 1515
+  },
+  {
+    "0": {
+      "value": 1301,
+      "from": "nj",
+      "to": "illi",
+      "booze": "Cognac"
+    },
+    "1": {
+      "value": 1671,
+      "from": "illi",
+      "to": "nev",
+      "booze": "Whisky"
+    },
+    "2": {
+      "value": 1526,
+      "from": "nev",
+      "to": "nj",
+      "booze": "Gin"
+    },
+    "profitPerTravel": 1499.3333333333333
+  },
+  {
+    "0": {
+      "value": 1535,
+      "from": "mich",
+      "to": "cali",
+      "booze": "Vodka"
+    },
+    "1": {
+      "value": 1417,
+      "from": "cali",
+      "to": "nev",
+      "booze": "Whisky"
+    },
+    "2": {
+      "value": 1526,
+      "from": "nev",
+      "to": "nj",
+      "booze": "Gin"
+    },
+    "3": {
+      "value": 1400,
+      "from": "nj",
+      "to": "mich",
+      "booze": "Rum"
+    },
+    "profitPerTravel": 1469.5
+  },
+  {
+    "0": {
+      "value": 1257,
+      "from": "nj",
+      "to": "ny",
+      "booze": "Rum"
+    },
+    "1": {
+      "value": 1382,
+      "from": "ny",
+      "to": "illi",
+      "booze": "Cognac"
+    },
+    "2": {
+      "value": 1671,
+      "from": "illi",
+      "to": "nev",
+      "booze": "Whisky"
+    },
+    "3": {
+      "value": 1526,
+      "from": "nev",
+      "to": "nj",
+      "booze": "Gin"
+    },
+    "profitPerTravel": 1459
+  },
+  {
+    "0": {
+      "value": 1180,
+      "from": "nj",
+      "to": "illi",
+      "booze": "Rum"
+    },
+    "1": {
+      "value": 1671,
+      "from": "illi",
+      "to": "nev",
+      "booze": "Whisky"
+    },
+    "2": {
+      "value": 1526,
+      "from": "nev",
+      "to": "nj",
+      "booze": "Gin"
+    },
+    "profitPerTravel": 1459
+  },
+  {
+    "0": {
+      "value": 1238,
+      "from": "mich",
+      "to": "ny",
+      "booze": "Wine"
+    },
+    "1": {
+      "value": 1382,
+      "from": "ny",
+      "to": "illi",
+      "booze": "Cognac"
+    },
+    "2": {
+      "value": 1671,
+      "from": "illi",
+      "to": "nev",
+      "booze": "Whisky"
+    },
+    "3": {
+      "value": 1526,
+      "from": "nev",
+      "to": "nj",
+      "booze": "Gin"
+    },
+    "4": {
+      "value": 1400,
+      "from": "nj",
+      "to": "mich",
+      "booze": "Rum"
+    },
+    "profitPerTravel": 1443.4
+  },
+  {
+    "0": {
+      "value": 1123,
+      "from": "mich",
+      "to": "illi",
+      "booze": "Cognac"
+    },
+    "1": {
+      "value": 1671,
+      "from": "illi",
+      "to": "nev",
+      "booze": "Whisky"
+    },
+    "2": {
+      "value": 1526,
+      "from": "nev",
+      "to": "nj",
+      "booze": "Gin"
+    },
+    "3": {
+      "value": 1400,
+      "from": "nj",
+      "to": "mich",
+      "booze": "Rum"
+    },
+    "profitPerTravel": 1430
+  },
+  {
+    "0": {
+      "value": 1060,
+      "from": "mich",
+      "to": "illi",
+      "booze": "Wine"
+    },
+    "1": {
+      "value": 1671,
+      "from": "illi",
+      "to": "nev",
+      "booze": "Whisky"
+    },
+    "2": {
+      "value": 1526,
+      "from": "nev",
+      "to": "nj",
+      "booze": "Gin"
+    },
+    "3": {
+      "value": 1400,
+      "from": "nj",
+      "to": "mich",
+      "booze": "Rum"
+    },
+    "profitPerTravel": 1414.25
+  },
+  {
+    "0": {
+      "value": 1046,
+      "from": "nj",
+      "to": "ny",
+      "booze": "Wine"
+    },
+    "1": {
+      "value": 1382,
+      "from": "ny",
+      "to": "illi",
+      "booze": "Cognac"
+    },
+    "2": {
+      "value": 1671,
+      "from": "illi",
+      "to": "nev",
+      "booze": "Whisky"
+    },
+    "3": {
+      "value": 1526,
+      "from": "nev",
+      "to": "nj",
+      "booze": "Gin"
+    },
+    "profitPerTravel": 1406.25
+  },
+  {
+    "0": {
+      "value": 1052,
+      "from": "mich",
+      "to": "ny",
+      "booze": "Whisky"
+    },
+    "1": {
+      "value": 1382,
+      "from": "ny",
+      "to": "illi",
+      "booze": "Cognac"
+    },
+    "2": {
+      "value": 1671,
+      "from": "illi",
+      "to": "nev",
+      "booze": "Whisky"
+    },
+    "3": {
+      "value": 1526,
+      "from": "nev",
+      "to": "nj",
+      "booze": "Gin"
+    },
+    "4": {
+      "value": 1400,
+      "from": "nj",
+      "to": "mich",
+      "booze": "Rum"
+    },
+    "profitPerTravel": 1406.2
+  },
+  {
+    "0": {
+      "value": 1103,
+      "from": "nev",
+      "to": "illi",
+      "booze": "Cognac"
+    },
+    "1": {
+      "value": 1671,
+      "from": "illi",
+      "to": "nev",
+      "booze": "Whisky"
+    },
+    "profitPerTravel": 1387
+  },
+  {
+    "0": {
+      "value": 1153,
+      "from": "nev",
+      "to": "mich",
+      "booze": "Gin"
+    },
+    "1": {
+      "value": 1619,
+      "from": "mich",
+      "to": "nev",
+      "booze": "Whisky"
+    },
+    "profitPerTravel": 1386
+  },
+  {
+    "0": {
+      "value": 1199,
+      "from": "nj",
+      "to": "cali",
+      "booze": "Vodka"
+    },
+    "1": {
+      "value": 1417,
+      "from": "cali",
+      "to": "nev",
+      "booze": "Whisky"
+    },
+    "2": {
+      "value": 1526,
+      "from": "nev",
+      "to": "nj",
+      "booze": "Gin"
+    },
+    "profitPerTravel": 1380.6666666666667
+  },
+  {
+    "0": {
+      "value": 1086,
+      "from": "nev",
+      "to": "ny",
+      "booze": "Wine"
+    },
+    "1": {
+      "value": 1382,
+      "from": "ny",
+      "to": "illi",
+      "booze": "Cognac"
+    },
+    "2": {
+      "value": 1671,
+      "from": "illi",
+      "to": "nev",
+      "booze": "Whisky"
+    },
+    "profitPerTravel": 1379.6666666666667
+  },
+  {
+    "0": {
+      "value": 868,
+      "from": "nj",
+      "to": "illi",
+      "booze": "Wine"
+    },
+    "1": {
+      "value": 1671,
+      "from": "illi",
+      "to": "nev",
+      "booze": "Whisky"
+    },
+    "2": {
+      "value": 1526,
+      "from": "nev",
+      "to": "nj",
+      "booze": "Gin"
+    },
+    "profitPerTravel": 1355
+  },
+  {
+    "0": {
+      "value": 1151,
+      "from": "nj",
+      "to": "nev",
+      "booze": "Whisky"
+    },
+    "1": {
+      "value": 1526,
+      "from": "nev",
+      "to": "nj",
+      "booze": "Gin"
+    },
+    "profitPerTravel": 1338.5
+  },
+  {
+    "0": {
+      "value": 689,
+      "from": "mich",
+      "to": "illi",
+      "booze": "Vodka"
+    },
+    "1": {
+      "value": 1671,
+      "from": "illi",
+      "to": "nev",
+      "booze": "Whisky"
+    },
+    "2": {
+      "value": 1526,
+      "from": "nev",
+      "to": "nj",
+      "booze": "Gin"
+    },
+    "3": {
+      "value": 1400,
+      "from": "nj",
+      "to": "mich",
+      "booze": "Rum"
+    },
+    "profitPerTravel": 1321.5
+  },
+  {
+    "0": {
+      "value": 1166,
+      "from": "nev",
+      "to": "cali",
+      "booze": "Vodka"
+    },
+    "1": {
+      "value": 1417,
+      "from": "cali",
+      "to": "nev",
+      "booze": "Whisky"
+    },
+    "profitPerTravel": 1291.5
+  },
+  {
+    "0": {
+      "value": 584,
+      "from": "nj",
+      "to": "ny",
+      "booze": "Whisky"
+    },
+    "1": {
+      "value": 1382,
+      "from": "ny",
+      "to": "illi",
+      "booze": "Cognac"
+    },
+    "2": {
+      "value": 1671,
+      "from": "illi",
+      "to": "nev",
+      "booze": "Whisky"
+    },
+    "3": {
+      "value": 1526,
+      "from": "nev",
+      "to": "nj",
+      "booze": "Gin"
+    },
+    "profitPerTravel": 1290.75
+  },
+  {
+    "0": {
+      "value": 908,
+      "from": "nev",
+      "to": "illi",
+      "booze": "Wine"
+    },
+    "1": {
+      "value": 1671,
+      "from": "illi",
+      "to": "nev",
+      "booze": "Whisky"
+    },
+    "profitPerTravel": 1289.5
+  },
+  {
+    "0": {
+      "value": 453,
+      "from": "mich",
+      "to": "ny",
+      "booze": "Tequila"
+    },
+    "1": {
+      "value": 1382,
+      "from": "ny",
+      "to": "illi",
+      "booze": "Cognac"
+    },
+    "2": {
+      "value": 1671,
+      "from": "illi",
+      "to": "nev",
+      "booze": "Whisky"
+    },
+    "3": {
+      "value": 1526,
+      "from": "nev",
+      "to": "nj",
+      "booze": "Gin"
+    },
+    "4": {
+      "value": 1400,
+      "from": "nj",
+      "to": "mich",
+      "booze": "Rum"
+    },
+    "profitPerTravel": 1286.4
+  },
+  {
+    "0": {
+      "value": 837,
+      "from": "nj",
+      "to": "cali",
+      "booze": "Cognac"
+    },
+    "1": {
+      "value": 1417,
+      "from": "cali",
+      "to": "nev",
+      "booze": "Whisky"
+    },
+    "2": {
+      "value": 1526,
+      "from": "nev",
+      "to": "nj",
+      "booze": "Gin"
+    },
+    "profitPerTravel": 1260
+  },
+  {
+    "0": {
+      "value": 712,
+      "from": "nev",
+      "to": "ny",
+      "booze": "Rum"
+    },
+    "1": {
+      "value": 1382,
+      "from": "ny",
+      "to": "illi",
+      "booze": "Cognac"
+    },
+    "2": {
+      "value": 1671,
+      "from": "illi",
+      "to": "nev",
+      "booze": "Whisky"
+    },
+    "profitPerTravel": 1255
+  },
+  {
+    "0": {
+      "value": 659,
+      "from": "mich",
+      "to": "cali",
+      "booze": "Cognac"
+    },
+    "1": {
+      "value": 1417,
+      "from": "cali",
+      "to": "nev",
+      "booze": "Whisky"
+    },
+    "2": {
+      "value": 1526,
+      "from": "nev",
+      "to": "nj",
+      "booze": "Gin"
+    },
+    "3": {
+      "value": 1400,
+      "from": "nj",
+      "to": "mich",
+      "booze": "Rum"
+    },
+    "profitPerTravel": 1250.5
+  },
+  {
+    "0": {
+      "value": 1104,
+      "from": "illi",
+      "to": "ny",
+      "booze": "Whisky"
+    },
+    "1": {
+      "value": 1382,
+      "from": "ny",
+      "to": "illi",
+      "booze": "Cognac"
+    },
+    "profitPerTravel": 1243
+  },
+  {
+    "0": {
+      "value": 855,
+      "from": "nev",
+      "to": "mich",
+      "booze": "Rum"
+    },
+    "1": {
+      "value": 1619,
+      "from": "mich",
+      "to": "nev",
+      "booze": "Whisky"
+    },
+    "profitPerTravel": 1237
+  },
+  {
+    "0": {
+      "value": 530,
+      "from": "nj",
+      "to": "mich",
+      "booze": "Cognac"
+    },
+    "1": {
+      "value": 1619,
+      "from": "mich",
+      "to": "nev",
+      "booze": "Whisky"
+    },
+    "2": {
+      "value": 1526,
+      "from": "nev",
+      "to": "nj",
+      "booze": "Gin"
+    },
+    "profitPerTravel": 1225
+  },
+  {
+    "0": {
+      "value": 540,
+      "from": "mich",
+      "to": "cali",
+      "booze": "Beer"
+    },
+    "1": {
+      "value": 1417,
+      "from": "cali",
+      "to": "nev",
+      "booze": "Whisky"
+    },
+    "2": {
+      "value": 1526,
+      "from": "nev",
+      "to": "nj",
+      "booze": "Gin"
+    },
+    "3": {
+      "value": 1400,
+      "from": "nj",
+      "to": "mich",
+      "booze": "Rum"
+    },
+    "profitPerTravel": 1220.75
+  },
+  {
+    "0": {
+      "value": 521,
+      "from": "mich",
+      "to": "cali",
+      "booze": "Whisky"
+    },
+    "1": {
+      "value": 1417,
+      "from": "cali",
+      "to": "nev",
+      "booze": "Whisky"
+    },
+    "2": {
+      "value": 1526,
+      "from": "nev",
+      "to": "nj",
+      "booze": "Gin"
+    },
+    "3": {
+      "value": 1400,
+      "from": "nj",
+      "to": "mich",
+      "booze": "Rum"
+    },
+    "profitPerTravel": 1216
+  },
+  {
+    "0": {
+      "value": 670,
+      "from": "mich",
+      "to": "nev",
+      "booze": "Tequila"
+    },
+    "1": {
+      "value": 1526,
+      "from": "nev",
+      "to": "nj",
+      "booze": "Gin"
+    },
+    "2": {
+      "value": 1400,
+      "from": "nj",
+      "to": "mich",
+      "booze": "Rum"
+    },
+    "profitPerTravel": 1198.6666666666667
+  },
+  {
+    "0": {
+      "value": 532,
+      "from": "nev",
+      "to": "ny",
+      "booze": "Gin"
+    },
+    "1": {
+      "value": 1382,
+      "from": "ny",
+      "to": "illi",
+      "booze": "Cognac"
+    },
+    "2": {
+      "value": 1671,
+      "from": "illi",
+      "to": "nev",
+      "booze": "Whisky"
+    },
+    "profitPerTravel": 1195
+  },
+  {
+    "0": {
+      "value": 702,
+      "from": "nev",
+      "to": "illi",
+      "booze": "Gin"
+    },
+    "1": {
+      "value": 1671,
+      "from": "illi",
+      "to": "nev",
+      "booze": "Whisky"
+    },
+    "profitPerTravel": 1186.5
+  },
+  {
+    "0": {
+      "value": 552,
+      "from": "mich",
+      "to": "nev",
+      "booze": "Vodka"
+    },
+    "1": {
+      "value": 1526,
+      "from": "nev",
+      "to": "nj",
+      "booze": "Gin"
+    },
+    "2": {
+      "value": 1400,
+      "from": "nj",
+      "to": "mich",
+      "booze": "Rum"
+    },
+    "profitPerTravel": 1159.3333333333333
+  },
+  {
+    "0": {
+      "value": 635,
+      "from": "nev",
+      "to": "illi",
+      "booze": "Rum"
+    },
+    "1": {
+      "value": 1671,
+      "from": "illi",
+      "to": "nev",
+      "booze": "Whisky"
+    },
+    "profitPerTravel": 1153
+  },
+  {
+    "0": {
+      "value": 771,
+      "from": "nj",
+      "to": "nev",
+      "booze": "Rum"
+    },
+    "1": {
+      "value": 1526,
+      "from": "nev",
+      "to": "nj",
+      "booze": "Gin"
+    },
+    "profitPerTravel": 1148.5
+  },
+  {
+    "0": {
+      "value": 753,
+      "from": "mich",
+      "to": "nj",
+      "booze": "Tequila"
+    },
+    "1": {
+      "value": 1400,
+      "from": "nj",
+      "to": "mich",
+      "booze": "Rum"
+    },
+    "profitPerTravel": 1076.5
+  },
+  {
+    "0": {
+      "value": 731,
+      "from": "mich",
+      "to": "nj",
+      "booze": "Whisky"
+    },
+    "1": {
+      "value": 1400,
+      "from": "nj",
+      "to": "mich",
+      "booze": "Rum"
+    },
+    "profitPerTravel": 1065.5
+  },
+  {
+    "0": {
+      "value": 703,
+      "from": "mich",
+      "to": "nj",
+      "booze": "Gin"
+    },
+    "1": {
+      "value": 1400,
+      "from": "nj",
+      "to": "mich",
+      "booze": "Rum"
+    },
+    "profitPerTravel": 1051.5
+  },
+  {
+    "0": {
+      "value": 544,
+      "from": "nj",
+      "to": "nev",
+      "booze": "Cognac"
+    },
+    "1": {
+      "value": 1526,
+      "from": "nev",
+      "to": "nj",
+      "booze": "Gin"
+    },
+    "profitPerTravel": 1035
+  },
+  {
+    "0": {
+      "value": 639,
+      "from": "nev",
+      "to": "cali",
+      "booze": "Cognac"
+    },
+    "1": {
+      "value": 1417,
+      "from": "cali",
+      "to": "nev",
+      "booze": "Whisky"
+    },
+    "profitPerTravel": 1028
+  },
+  {
+    "0": {
+      "value": 560,
+      "from": "mich",
+      "to": "nj",
+      "booze": "Beer"
+    },
+    "1": {
+      "value": 1400,
+      "from": "nj",
+      "to": "mich",
+      "booze": "Rum"
+    },
+    "profitPerTravel": 980
+  },
+  {
+    "0": {
+      "value": 561,
+      "from": "illi",
+      "to": "ny",
+      "booze": "Wine"
+    },
+    "1": {
+      "value": 1382,
+      "from": "ny",
+      "to": "illi",
+      "booze": "Cognac"
+    },
+    "profitPerTravel": 971.5
+  },
+  {
+    "0": {
+      "value": 516,
+      "from": "mich",
+      "to": "nj",
+      "booze": "Vodka"
+    },
+    "1": {
+      "value": 1400,
+      "from": "nj",
+      "to": "mich",
+      "booze": "Rum"
+    },
+    "profitPerTravel": 958
+  },
+  {
+    "0": {
+      "value": 449,
+      "from": "nev",
+      "to": "cali",
+      "booze": "Gin"
+    },
+    "1": {
+      "value": 1417,
+      "from": "cali",
+      "to": "nev",
+      "booze": "Whisky"
+    },
+    "profitPerTravel": 933
+  },
+  {
+    "0": {
+      "value": 447,
+      "from": "mich",
+      "to": "nj",
+      "booze": "Wine"
+    },
+    "1": {
+      "value": 1400,
+      "from": "nj",
+      "to": "mich",
+      "booze": "Rum"
+    },
+    "profitPerTravel": 923.5
+  }
+]
