@@ -1,0 +1,362 @@
+[
+  {
+    "value": 1599,
+    "from": "ohio",
+    "to": "ny",
+    "booze": "Bourbon"
+  },
+  {
+    "value": 1480,
+    "from": "ohio",
+    "to": "nj",
+    "booze": "Bourbon"
+  },
+  {
+    "value": 1470,
+    "from": "no",
+    "to": "mich",
+    "booze": "Rum"
+  },
+  {
+    "value": 1400,
+    "from": "illi",
+    "to": "ny",
+    "booze": "Whisky"
+  },
+  {
+    "value": 1100,
+    "from": "illi",
+    "to": "ohio",
+    "booze": "Whisky"
+  },
+  {
+    "value": 1050,
+    "from": "illi",
+    "to": "mich",
+    "booze": "Rum"
+  },
+  {
+    "value": 1040,
+    "from": "ny",
+    "to": "mich",
+    "booze": "Rum"
+  },
+  {
+    "value": 982,
+    "from": "nj",
+    "to": "illi",
+    "booze": "Gin"
+  },
+  {
+    "value": 980,
+    "from": "nj",
+    "to": "mich",
+    "booze": "Rum"
+  },
+  {
+    "value": 942,
+    "from": "ny",
+    "to": "illi",
+    "booze": "Gin"
+  },
+  {
+    "value": 940,
+    "from": "ohio",
+    "to": "mich",
+    "booze": "Rum"
+  },
+  {
+    "value": 873,
+    "from": "no",
+    "to": "ny",
+    "booze": "Bourbon"
+  },
+  {
+    "value": 842,
+    "from": "nj",
+    "to": "no",
+    "booze": "Gin"
+  },
+  {
+    "value": 812,
+    "from": "nj",
+    "to": "ohio",
+    "booze": "Gin"
+  },
+  {
+    "value": 806,
+    "from": "illi",
+    "to": "ny",
+    "booze": "Bourbon"
+  },
+  {
+    "value": 802,
+    "from": "ohio",
+    "to": "mich",
+    "booze": "Bourbon"
+  },
+  {
+    "value": 802,
+    "from": "ny",
+    "to": "no",
+    "booze": "Gin"
+  },
+  {
+    "value": 797,
+    "from": "mich",
+    "to": "ny",
+    "booze": "Bourbon"
+  },
+  {
+    "value": 793,
+    "from": "ohio",
+    "to": "illi",
+    "booze": "Bourbon"
+  },
+  {
+    "value": 790,
+    "from": "no",
+    "to": "ny",
+    "booze": "Whisky"
+  },
+  {
+    "value": 772,
+    "from": "ny",
+    "to": "ohio",
+    "booze": "Gin"
+  },
+  {
+    "value": 760,
+    "from": "illi",
+    "to": "nj",
+    "booze": "Whisky"
+  },
+  {
+    "value": 754,
+    "from": "no",
+    "to": "nj",
+    "booze": "Bourbon"
+  },
+  {
+    "value": 752,
+    "from": "nj",
+    "to": "mich",
+    "booze": "Gin"
+  },
+  {
+    "value": 726,
+    "from": "ohio",
+    "to": "no",
+    "booze": "Bourbon"
+  },
+  {
+    "value": 712,
+    "from": "ny",
+    "to": "mich",
+    "booze": "Gin"
+  },
+  {
+    "value": 710,
+    "from": "mich",
+    "to": "ny",
+    "booze": "Whisky"
+  },
+  {
+    "value": 690,
+    "from": "illi",
+    "to": "mich",
+    "booze": "Whisky"
+  },
+  {
+    "value": 687,
+    "from": "illi",
+    "to": "nj",
+    "booze": "Bourbon"
+  },
+  {
+    "value": 678,
+    "from": "mich",
+    "to": "nj",
+    "booze": "Bourbon"
+  },
+  {
+    "value": 640,
+    "from": "nj",
+    "to": "ny",
+    "booze": "Whisky"
+  },
+  {
+    "value": 610,
+    "from": "illi",
+    "to": "no",
+    "booze": "Whisky"
+  },
+  {
+    "value": 605,
+    "from": "illi",
+    "to": "no",
+    "booze": "Beer"
+  },
+  {
+    "value": 599,
+    "from": "illi",
+    "to": "ohio",
+    "booze": "Beer"
+  },
+  {
+    "value": 594,
+    "from": "nj",
+    "to": "no",
+    "booze": "Beer"
+  },
+  {
+    "value": 588,
+    "from": "nj",
+    "to": "ohio",
+    "booze": "Beer"
+  },
+  {
+    "value": 577,
+    "from": "ny",
+    "to": "no",
+    "booze": "Beer"
+  },
+  {
+    "value": 571,
+    "from": "ny",
+    "to": "ohio",
+    "booze": "Beer"
+  },
+  {
+    "value": 530,
+    "from": "no",
+    "to": "ohio",
+    "booze": "Rum"
+  },
+  {
+    "value": 490,
+    "from": "no",
+    "to": "ohio",
+    "booze": "Whisky"
+  },
+  {
+    "value": 490,
+    "from": "no",
+    "to": "nj",
+    "booze": "Rum"
+  },
+  {
+    "value": 436,
+    "from": "mich",
+    "to": "no",
+    "booze": "Beer"
+  },
+  {
+    "value": 430,
+    "from": "mich",
+    "to": "ohio",
+    "booze": "Beer"
+  },
+  {
+    "value": 430,
+    "from": "no",
+    "to": "ny",
+    "booze": "Rum"
+  },
+  {
+    "value": 420,
+    "from": "no",
+    "to": "illi",
+    "booze": "Rum"
+  },
+  {
+    "value": 410,
+    "from": "mich",
+    "to": "ohio",
+    "booze": "Whisky"
+  },
+  {
+    "value": 340,
+    "from": "nj",
+    "to": "ohio",
+    "booze": "Whisky"
+  },
+  {
+    "value": 300,
+    "from": "ohio",
+    "to": "ny",
+    "booze": "Whisky"
+  },
+  {
+    "value": 275,
+    "from": "illi",
+    "to": "nj",
+    "booze": "Moonshine"
+  },
+  {
+    "value": 271,
+    "from": "mich",
+    "to": "nj",
+    "booze": "Moonshine"
+  },
+  {
+    "value": 254,
+    "from": "illi",
+    "to": "ohio",
+    "booze": "Moonshine"
+  },
+  {
+    "value": 250,
+    "from": "mich",
+    "to": "ohio",
+    "booze": "Moonshine"
+  },
+  {
+    "value": 247,
+    "from": "no",
+    "to": "nj",
+    "booze": "Moonshine"
+  },
+  {
+    "value": 230,
+    "from": "mich",
+    "to": "illi",
+    "booze": "Gin"
+  },
+  {
+    "value": 226,
+    "from": "no",
+    "to": "ohio",
+    "booze": "Moonshine"
+  },
+  {
+    "value": 199,
+    "from": "ny",
+    "to": "nj",
+    "booze": "Moonshine"
+  },
+  {
+    "value": 178,
+    "from": "ny",
+    "to": "ohio",
+    "booze": "Moonshine"
+  },
+  {
+    "value": 170,
+    "from": "ohio",
+    "to": "illi",
+    "booze": "Gin"
+  },
+  {
+    "value": 169,
+    "from": "illi",
+    "to": "mich",
+    "booze": "Beer"
+  },
+  {
+    "value": 158,
+    "from": "nj",
+    "to": "mich",
+    "booze": "Beer"
+  }
+]
