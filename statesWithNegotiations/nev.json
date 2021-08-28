@@ -1,0 +1,48 @@
+{
+    "name": "nev",
+    "Moonshine": {
+        "low": 15,
+        "med": 19,
+        "high": 27
+    },
+    "Beer": {
+        "low": 222,
+        "med": 291,
+        "high": 363
+    },
+    "Gin": {
+        "low": 362,
+        "med": 460,
+        "high": 598
+    },
+    "Whisky": {
+        "low": 1522,
+        "med": 1900,
+        "high": 2569
+    },
+    "Rum": {
+        "low": 582,
+        "med": 760,
+        "high": 986
+    },
+    "Vodka": {
+        "low": 500,
+        "med": 657,
+        "high": 840
+    },
+    "Tequila": {
+        "low": 658,
+        "med": 840,
+        "high": 1070
+    },
+    "Wine": {
+        "low": 893,
+        "med": 1208,
+        "high": 1401
+    },
+    "Cognac": {
+        "low": 1070,
+        "med": 1350,
+        "high": 1696
+    }
+}

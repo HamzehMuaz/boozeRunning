@@ -1,0 +1,48 @@
+{
+    "name": "cali",
+    "Moonshine": {
+        "low": 248,
+        "med": 300,
+        "high": 380
+    },
+    "Beer": {
+        "low": 378,
+        "med": 480,
+        "high": 598
+    },
+    "Gin": {
+        "low": 552,
+        "med": 735,
+        "high": 922
+    },
+    "Whisky": {
+        "low": 932,
+        "med": 1152,
+        "high": 1471
+    },
+    "Rum": {
+        "low": 149,
+        "med": 221,
+        "high": 279
+    },
+    "Vodka": {
+        "low": 1181,
+        "med": 1378,
+        "high": 1823
+    },
+    "Tequila": {
+        "low": 150,
+        "med": 194,
+        "high": 252
+    },
+    "Wine": {
+        "low": 774,
+        "med": 950,
+        "high": 1235
+    },
+    "Cognac": {
+        "low": 1348,
+        "med": 1600,
+        "high": 1989
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "name": "illi",
+    "Moonshine": {
+        "low": 63,
+        "med": 76,
+        "high": 92
+    },
+    "Beer": {
+        "low": 39,
+        "med": 52,
+        "high": 65
+    },
+    "Gin": {
+        "low": 669,
+        "med": 945,
+        "high": 1175
+    },
+    "Whisky": {
+        "low": 709,
+        "med": 850,
+        "high": 1127
+    },
+    "Rum": {
+        "low": 779,
+        "med": 1103,
+        "high": 1395
+    },
+    "Vodka": {
+        "low": 616,
+        "med": 800,
+        "high": 977
+    },
+    "Tequila": {
+        "low": 401,
+        "med": 515,
+        "high": 624
+    },
+    "Wine": {
+        "low": 1330,
+        "med": 1733,
+        "high": 2116
+    },
+    "Cognac": {
+        "low": 1530,
+        "med": 1900,
+        "high": 2453
+    }
+}
